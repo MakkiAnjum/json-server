@@ -1,0 +1,146 @@
+{
+  "seller": [
+    {
+      "name": "Sajid Hussain",
+      "email": "sajjadmailk@gmail.com",
+      "password": "sajjad123",
+      "id": "1"
+    },
+    {
+      "name": "Abid",
+      "email": "abid@gmail.com",
+      "password": "abid@4077",
+      "id": "2"
+    },
+    {
+      "id": "0d3a",
+      "name": "bc",
+      "email": "bc@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2c1e",
+      "name": "adeel",
+      "email": "adeel@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "products": [
+    {
+      "name": "Apple IPhone 14",
+      "price": "9000",
+      "color": "Pink",
+      "category": "Mobile",
+      "description": "This is the iPhone 13 by Apple",
+      "image": "https://www.pakmobizone.pk/wp-content/uploads/2021/10/Apple-iphone-13-Pink-2.png",
+      "id": "1"
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "price": "100000",
+      "color": "Pink",
+      "category": "Mobile",
+      "description": "This is the iPhone Product",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/lifestyle/Apple-iPhone-14-iPhone-14-Plus-yellow-2up-230307_inline.jpg.large.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Sinners Attire Jeans ",
+      "price": "20000",
+      "color": "Skinny Jeans",
+      "category": "Jeans Pant",
+      "description": "This is the Jeans Product",
+      "image": "https://cdn.shopify.com/s/files/1/0593/8945/products/SinnersAttireAcidGreyRipandRepairedJeans_1600x.jpg?v=1655205644",
+      "id": "4"
+    },
+    {
+      "name": "HP Pavilion ",
+      "price": "70000",
+      "color": "White",
+      "category": "Laptop",
+      "description": "This is the HP Product",
+      "image": "https://www.czone.com.pk/images/products/6-czone.com.pk-1540-13441-280722093825.jpg",
+      "id": "5"
+    },
+    {
+      "name": "Dell Inspiron",
+      "price": "600",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "This is the Dell Company Product",
+      "image": "https://laptopmart.pk/wp-content/uploads/2022/12/Dell-Inspiron-17-7706-X360-Touch.jpg",
+      "id": "6"
+    },
+    {
+      "name": "iphon 13 pro",
+      "price": "100000",
+      "color": "black",
+      "category": "mobile",
+      "description": "this is iphone product",
+      "image": "data:image/jpeg;base64,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",
+      "id": "8"
+    },
+    {
+      "name": "Iphone 15",
+      "price": "40000",
+      "color": "Blue",
+      "category": "Phone",
+      "description": "This is the ipohone",
+      "image": "https://play-lh.googleusercontent.com/Nvpt-KTwhlo38yJz7MW8qjEXz_pCTA1qIiFetHxwbQfmCttcxgSPhPB4fYqGGaQv9eM",
+      "id": "9"
+    },
+    {
+      "id": "5244",
+      "name": "IPhone 12",
+      "price": "12000",
+      "color": "Black",
+      "category": "Phone",
+      "description": "This is I phone",
+      "image": "https://www.gizbot.com/images/2020-04/apple-iphone-12-concept_158711095630.jpg"
+    }
+  ],
+  "users": [
+    {
+      "name": "Sajjad",
+      "email": "sajjad@gmail.com",
+      "password": "1122",
+      "id": "1"
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "1234",
+      "id": "2"
+    },
+    {
+      "name": "Abid",
+      "email": "abid@gmail.com",
+      "password": "12",
+      "id": "3"
+    },
+    {
+      "name": "Sajid",
+      "email": "sajid@gmail.com",
+      "password": "0123",
+      "id": "4"
+    },
+    {
+      "name": "asif1",
+      "email": "asif@gmail.coms",
+      "password": "1234",
+      "id": "5"
+    },
+    {
+      "id": "358c",
+      "name": "bd",
+      "email": "bd@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "a0bf",
+      "name": "adeel",
+      "email": "adeel2@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
